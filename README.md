@@ -24,7 +24,6 @@ The purpose of this project is to understand how CSS works and how styles can be
 - CSS3
 
 ## Learning Outcome
-By completing this project, you will understand:
 - The concept of Cascading Style Sheets
 - Different ways to implement CSS
 - Basic styling of HTML elements
